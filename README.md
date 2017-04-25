@@ -1,4 +1,7 @@
-# api documentation for  [crdt (v3.6.4)](http://github.com/dominictarr/crdt)  [![npm package](https://img.shields.io/npm/v/npmdoc-crdt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-crdt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-crdt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-crdt)
+# npmdoc-crdt
+
+#### basic api documentation for  [crdt (v3.6.4)](http://github.com/dominictarr/crdt)  [![npm package](https://img.shields.io/npm/v/npmdoc-crdt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-crdt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-crdt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-crdt)
+
 #### Commutative Replicated Data Types for easy distributed/collaborative apps
 
 [![NPM](https://nodei.co/npm/crdt.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/crdt)
@@ -74,7 +77,8 @@
             "android-browser/4.2..latest"
         ]
     },
-    "version": "3.6.4"
+    "version": "3.6.4",
+    "bin": {}
 }
 ```
 
